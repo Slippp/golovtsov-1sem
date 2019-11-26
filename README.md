@@ -1,23 +1,4 @@
-<!DOCTYPE html>
 
-<html lang="ru" xmlns="http://www.w3.org/1999/xhtml">
-<head>
-    <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="lib/bootstrap/table/dist/bootstrap-table.min.css" />
-    <link rel="stylesheet" href="lib/font-awesome/css/all.min.css" />
-    <link rel="stylesheet" href="lib/toastr/toastr.min.css" />
-    <link rel="stylesheet" href="lib/jqueryui/jquery-ui.min.css" />
-
-    <link rel="icon" type="image/png" href="content/favicon.ico">
-
-    <script src="lib/jquery/jquery.min.js"></script>
-    <script src="lib/bootstrap/dist/js/bootstrap.min.js"></script>
-    <script src="lib/bootstrap/table/dist/bootstrap-table.min.js"></script>
-    <script src="lib/bootstrap/table/dist/locale/bootstrap-table-ru-RU.min.js"></script>
-    <script src="lib/jsrender/jsrender.min.js"></script>
-    <script src="lib/toastr/toastr.min.js"></script>
-    <script src="lib/jqueryui/jquery-ui.min.js"></script>
-    <meta charset="utf-8" />
     <title>Отчет по лабораторным работам</title>
 </head>
 <body>
