@@ -1,5 +1,4 @@
 
-    <title>Отчет по лабораторным работам</title>
 </head>
 <body>
     <nav class="navbar navbar-light bg-light">
@@ -8,7 +7,7 @@
         </a>
         <a href="https://vk.com/id22872407" class="btn btn-primary btn-light btn-lg ml-auto" role="button" aria-pressed="true">
             <blockquote class="blockquote mb-0">
-                <footer class="blockquote-footer">Майорко Денис. ИДМ-19-04</footer>
+                <footer class="blockquote-footer">Головцов Владимир. ИДМ-19-04</footer>
             </blockquote>
         </a>
     </nav>
