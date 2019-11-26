@@ -1,12 +1,5 @@
 
-</head>
-<body>
-    <nav class="navbar navbar-light bg-light">
-        <a class="navbar-brand" href="">
             Отчет по лабораторным работам
-        </a>
-        <a href="https://vk.com/id22872407" class="btn btn-primary btn-light btn-lg ml-auto" role="button" aria-pressed="true">
-            <blockquote class="blockquote mb-0">
                 <footer class="blockquote-footer">Головцов Владимир. ИДМ-19-04</footer>
             </blockquote>
         </a>
@@ -14,9 +7,9 @@
     <div class="container-fluid d-flex mt-2">
         <div class="nav flex-column nav-pills col-2" id="v-pills-tab" role="tablist" aria-orientation="vertical">
             <a class="nav-link active" id="v-pills-lab1-tab" data-toggle="pill" href="#v-pills-lab1" role="tab" aria-controls="v-pills-lab1" aria-selected="true">Лабораторная работа №1</a>
-            <a class="nav-link" id="v-pills-lab2-tab" data-toggle="pill" href="#v-pills-lab2" role="tab" aria-controls="v-pills-lab2" aria-selected="false">Лабораторная работа №2</a>
+          Лабораторная работа №2</a>
             <a class="nav-link" id="v-pills-lab3-tab" data-toggle="pill" href="#v-pills-lab3" role="tab" aria-controls="v-pills-lab3" aria-selected="false">Лабораторная работа №3</a>
-            <a class="nav-link" id="v-pills-project-tab" data-toggle="pill" href="#v-pills-project" role="tab" aria-controls="v-pills-project" aria-selected="false">Командный проект</a>
+            Командный проект
         </div>
         <div class="tab-content col-10" id="v-pills-tabContent">
             <div class="tab-pane fade show active container-fluid" id="v-pills-lab1" role="tabpanel" aria-labelledby="v-pills-lab1-tab">
@@ -29,6 +22,7 @@
                 <img src="content/lab1.jpg" class="rounded d-block">
             </div>
             <div class="tab-pane fade" id="v-pills-lab2" role="tabpanel" aria-labelledby="v-pills-lab2-tab">
+                Лабораторная работа №2</a>
                 <h4>Ход лабораторной:</h4>
                 <ul>
                     <li>Было создано веб-приложение с использованием таких инструментов, как JavaScript и jQuery.</li>
